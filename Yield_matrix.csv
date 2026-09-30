@@ -1,0 +1,288 @@
+﻿No,study_id,crop,yield_units,Type1,yield2_units,Type2
+1,Agustin_Saez_Rubus_idaeus_Argentina_2014,Rubus idaeus,kg per hectare,2,individual fruit weight (grams),2
+2,Alejandro_Trillo_Fragaria_ananassa_Spain_2016,Fragaria x ananassa,grams per fruit,2,NA,0
+3,Alexandra_Maria_Klein_Prunus_dulcis_USA_2008,Prunus dulcis,fruit set (%),1,NA,0
+4,Alice_Classen_Coffea_arabica_Tanzania_2011_2012,Coffea arabica,late fruit set (%),1,fruit weight,2
+5,Alison_D_Oreilly_Brassica_napus_Ireland_2019,Brassica napus,tonne per acre,2,%pods  produced_pod weight,1
+6,Ana_Montero_Castano_Vaccinium_corymbosum_Canada_2018,Vaccinium corymbosum,fruit set (%),1,NA,0
+7,Ariza_etal_apple_Belgium_2019,Malus domestica,fruit set,1,NA,0
+8,Ariza_etal_sweetcherry_Belgium_2019,Prunus avium,fruit set (%),1,NA,0
+9,Betina_Blochtein_Brassica_napus_Brazil_2011,Brassica napus,kg,2,NA,0
+10,Breno_M_Freitas_Anacardium_occidentale_Brazil_2012,Anacardium occidentale,kg per hectare,2,NA,0
+11,Breno_M_Freitas_Annona_muricata_Brazil_2013,Annona muricata,fruit set (%) per plant,1,NA,0
+12,Breno_M_Freitas_Annona_squamosa_Brazil_2013,Annona squamosa,fruit set (%) per plant,1,NA,0
+13,Breno_M_Freitas_Bixa_orellana_Brazil_2007,Bixa orellana,fruit set (%) per flowers,1,NA,0
+14,Breno_M_Freitas_Gossypium_hirsutum_Brazil_2011,Gossypium hirsutum,fruit set (%) per flowers,1,NA,0
+15,Breno_M_Freitas_Malpighia_emarginata_Brazil_2011,Malpighia emarginata,fruit set (%) per flowers,1,NA,0
+16,Bryony_Willcox_Macadamia_integrifolia_Australia_2016,Macadamia integrifolia,dry weight: mean kgs per tree,2,NA,0
+17,Bryony_Willcox_Mangifera_indica_Australia_2016,Mangifera indica,average fruit set per 100 flowers,1,average fruit number per metre2 of tree canopy just prior to harvest,2
+18,Bryony_Willcox_Mangifera_indica_Australia_2016,Mangifera indica,average fruit set per 100 flowers,1,average fruit number per metre2 of tree canopy just prior to harvest,2
+19,Bryony_Willcox_Mangifera_indica_Australia_2016,Mangifera indica,NA,0,average fruit number per metre2 of tree canopy just prior to harvest,2
+20,Bryony_Willcox_Mangifera_indica_Australia_2016,Mangifera indica,NA,0,average fruit number per metre2 of tree canopy just prior to harvest,2
+21,Bryony_Willcox_Mangifera_indica_Australia_2016_2,Mangifera indica,mean kgs per tree,2,NA,0
+22,Bryony_Willcox_Mangifera_indica_Australia_2017,Mangifera indica,mean kgs per tree,2,NA,0
+23,Bryony_Willcox_Persea_americana_Australia_2015,Persea americana,mean kgs per tree,2,NA,0
+24,Bryony_Willcox_Persea_americana_Australia_2016,Persea americana,mean kgs per tree,2,NA,0
+25,Bryony_Willcox_Persea_americana_Australia_2017,Persea americana,mean kgs per tree,2,NA,0
+26,Carlos_H_Vergara_Coffea_arabica_Mexico_2004,Coffea arabica,fruit set (%): initial number of floral buds in the respective branch and the number of developing fruits,1,NA,0
+27,Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Vaccinium corymbosum,kg per hectare,2,NA,0
+28,Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Vaccinium corymbosum,kg per hectare,2,NA,0
+29,Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Vaccinium corymbosum,kg per hectare,2,NA,0
+30,Christof_Schuepp_Prunus_avium_Switzerland_2011,Prunus avium,fruit set (%): percentage of intact marked flowers (not damaged by herbivores) that developed into swollen green fruits approximately three weeks after pollination per site,1,NA,0
+31,Claire_Kremen_Fragaria_ananassa_USA_2012,Fragaria x ananassa,mean berry weight,2,mean marketability,0
+32,Claire_Kremen_Fragaria_ananassa_USA_2012,Fragaria x ananassa,mean berry weight,2,mean marketability,0
+33,Dara_Stanley_Brassica_napus_Ireland_2010,Brassica napus,seed set,1,NA,0
+34,Davi_L_Ramos_Phaseolus_vulgaris L_Brazil_2015_2016,Phaseolus vulgaris L.,kg per hectare,2,yield.g.pod,2
+35,David_Biddinger_Malus_domestica_USA_2013,Malus domestica,number of fruits,1,number of fruits per flower,1
+36,David_Biddinger_Malus_domestica_USA_2014,Malus domestica,number of fruits,1,number of fruits per flower,1
+37,David_Biddinger_Prunus_cerasus_USA_2015,Prunus cerasus,number of fruits per_flower,1,number of fruits,1
+38,David_Crowder_Brassica_napus_USA_2013,Brassica napus,kg per hectare,2,NA,0
+39,David_Crowder_Brassica_napus_USA_2014,Brassica napus,kg per hectare,2,NA,0
+40,David_Crowder_Fragaria_ananassa_USA_2016,Fragaria x ananassa,grams,2,NA,0
+41,David_Kleijn_Malus_domestica_Netherlands_2013,Malus domestica,NA,0,number of fruits on fixed branch length per tree,1
+42,David_Kleijn_Malus_domestica_Netherlands_2013,Malus domestica,NA,0,number of fruits on fixed branch length per tree,1
+43,David_Kleijn_Malus_domestica_Netherlands_2013,Malus domestica,kg per field,2,number of fruits on fixed branch length per tree,1
+44,David_Kleijn_Malus_domestica_Netherlands_2013,Malus domestica,kg per field,2,number of fruits on fixed branch length per tree,1
+45,David_Kleijn_Malus_domestica_Netherlands_2014,Malus domestica,NA,0,number of fruits on fixed branch length per tree,1
+46,David_Kleijn_Malus_domestica_Netherlands_2014,Malus domestica,NA,0,number of fruits on fixed branch length per tree,1
+47,David_Kleijn_Malus_domestica_Netherlands_2014,Malus domestica,kg per field,2,number of fruits on fixed branch length per tree,1
+48,David_Kleijn_Malus_domestica_Netherlands_2014,Malus domestica,kg per field,2,number of fruits on fixed branch length per tree,1
+49,David_Kleijn_Vaccinium_corymbosum_Netherlands_2013,Vaccinium corymbosum,NA,0,fruit set (%): flowers producing a berry),1
+50,David_Kleijn_Vaccinium_corymbosum_Netherlands_2013,Vaccinium corymbosum,NA,0,fruit set (%): flowers producing a berry),1
+51,David_Kleijn_Vaccinium_corymbosum_Netherlands_2013,Vaccinium corymbosum,kg per field,2,fruit set (%): flowers producing a berry),1
+52,David_Kleijn_Vaccinium_corymbosum_Netherlands_2013,Vaccinium corymbosum,kg per field,2,fruit set (%): flowers producing a berry),1
+53,David_Kleijn_Vaccinium_corymbosum_Netherlands_2014,Vaccinium corymbosum,kg per field,2,fruit set (%): flowers producing a berry),1
+54,David_Kleijn_Vaccinium_corymbosum_Netherlands_2014,Vaccinium corymbosum,kg per field,2,fruit set (%): flowers producing a berry),1
+55,David_Kleijn_Vaccinium_corymbosum_Netherlands_2014,Vaccinium corymbosum,NA,0,fruit set (%): flowers producing a berry),1
+56,David_Kleijn_Vaccinium_corymbosum_Netherlands_2014,Vaccinium corymbosum,NA,0,fruit set (%): flowers producing a berry),1
+57,Diego_Nabaes_Jodar_Apple_Argentina_2019,Malus domestica,fruit set (%),1,NA,0
+58,Diego_Nabaes_Jodar_Apple_Argentina_2019,Malus domestica,fruit set (%),1,NA,0
+59,Dupont_redclover_Denmark_2008,Trifolium pratense,kg per hectare,2,kg per hectare,2
+60,Dupont_redclover_Denmark_2009,Trifolium pratense,kg per hectare,2,kg per hectare,2
+61,Eeraerts_etal_sweetcherry_Belgium_2015,Prunus avium,fruit set (%),1,NA,0
+62,Eeraerts_etal_sweetcherry_Belgium_2016,Prunus avium,fruit set (%),1,NA,0
+63,Eeraerts_etal_sweetcherry_Belgium_2017,Prunus avium,fruit set (%),1,NA,0
+64,Elizabeth_Elle_Vaccinium_corymbosum_Canada_2013,Vaccinium corymbosum,berry weight,2,fruit set,1
+65,Elizabeth_Elle_Vaccinium_corymbosum_Canada_2014,Vaccinium corymbosum,berry weight,2,fruit set,1
+66,Elizabeth_Elle_Vaccinium_corymbosum_Canada_2015,Vaccinium corymbosum,berry weight,2,fruit set,1
+67,Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010,Malus domestica,kg,2,NA,0
+68,Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2011,Malus domestica,kg,2,NA,0
+69,Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2012,Malus domestica,kg,2,NA,0
+70,Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015,Abelmoschus esculentus,kg per hectare,2,NA,0
+71,Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Cucumis sativus,kg per hectare,2,NA,0
+72,Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015,Lagenaria siceraria,kg per hectare,2,NA,0
+73,Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Luffa acutangula,kg per hectare,2,NA,0
+74,Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Momordica charantia,kg per hectare,2,NA,0
+75,Georg_Andersson_Brassica_rapa_Sweden_2010,Brassica rapa,seed set (Percentage developed seed per siliqua),1,NA,0
+76,Georg_Andersson_Fragaria_ananassa_Sweden_2009,Fragaria x ananassa,Percentage of fully pollinated fruits per pot,1,Total number of fruits per site,1
+77,Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013,Vaccinium meridionale,kg per shrub,2,NA,0
+78,Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Fagopyrum esculentum,kg per hectare,2,NA,0
+79,Heather_Lee_Grab_Fragaria_ananassa_USA_2012,Fragaria x ananassa,mean fruit weight for 10 fruits per field (grams),2,NA,0
+80,Heather_Lee_Grab_Fragaria_ananassa_USA_2012,Fragaria x ananassa,mean fruit weight for 10 fruits per field (grams),2,NA,0
+81,Hisatomo_Taki_Fagopyrum_esculentum_Japan_2007,Fagopyrum esculentum,seed set,1,NA,0
+82,Hisatomo_Taki_Fagopyrum_esculentum_Japan_2008,Fagopyrum esculentum,seed set,1,NA,0
+83,Ignasi_Bartomeus_Brassica_napus_Sweden_2013,Brassica napus,kg per hectare,2,NA,0
+84,Jamie_Ellis_Citrullus_lanatus_USA_2013,Citrullus lanatus,kg per square meter,2,number of fruits,1
+85,Jamie_Ellis_Citrullus_lanatus_USA_2014,Citrullus lanatus,kg per square meter,2,number of fruits,1
+86,Jamie_Ellis_Citrullus_lanatus_USA_2015,Citrullus lanatus,kg per square meter,2,number of fruits,1
+87,Jamie_Ellis_Vaccinium_corymbosum_USA_2014,Vaccinium corymbosum,berry weight,2,fruit set,1
+88,Jamie_Ellis_Vaccinium_corymbosum_USA_2015,Vaccinium corymbosum,berry weight,2,fruit set,1
+89,Jason_Gibbs_Vaccinium_corymbosum_USA_2013,Vaccinium corymbosum,berry weight,2,fruit set,1
+90,Jason_Gibbs_Vaccinium_corymbosum_USA_2014,Vaccinium corymbosum,berry weight,2,fruit set,1
+91,Jason_Gibbs_Vaccinium_corymbosum_USA_2015,Vaccinium corymbosum,berry weight,2,fruit set,1
+92,Jeroen_Scheper_Helianthus_annuus_France_2015,Helianthus annuus,seed set (number of full seeds per flowerhead),1,NA,0
+93,Jessica_D_Petersen_Cucurbita_pepo_USA_2011,Cucurbita pepo,fruit weight per plant,2,NA,0
+94,Jessica_Knapp_Cucurbita_pepo_UK_2016,Cucurbita pepo,kg per hectare,2,NA,0
+95,Juliana_Hipolito_Coffea_arabica_Brazil_2013,Coffea arabica,bags per hectare,2,fruit set,1
+96,Juliana_Hipolito_Coffea_arabica_Brazil_2014,Coffea arabica,bags per hectare,2,fruit set,1
+97,Juliana_Hipolito_Mangifera_indica_Brazil_2005,Mangifera indica,fruit set (%),1,NA,0
+98,Julianna_Wilson_Malus_domestica_USA_2013,Malus domestica,number of fruits,1,number of fruits per flower,1
+99,Julianna_Wilson_Malus_domestica_USA_2014,Malus domestica,number of fruits,1,number of fruits per flower,1
+100,Julianna_Wilson_Malus_domestica_USA_2015,Malus domestica,number of fruits,1,number of fruits per flower,1
+101,Katherine_LW_Burns_Malus_domestica_Ireland_2018,Malus domestica,fruit set (%),1,mean weight per apple (grams per apple),2
+102,Katherine_LW_Burns_Vicia_faba_Ireland_2018,Vicia faba,fruit set (%),1,mean weight per bean pod (grams),2
+103,Katherine_LW_Burns_Vicia_faba_Ireland_2019,Vicia faba,fruit set (%),1,mean weight per bean pod (grams),2
+104,Katrine_Hansen_Psidium_guajava_Thailand_2019,Psidium guajava,fruit set (%),1,NA,0
+105,Katrine_Hansen_Psidium_guajava_Thailand_2020,Psidium guajava,fruit set (%),1,NA,0
+106,Leah_Blechschmidt_Malus_domestica_Canada_2018,Malus domestica,Average # of seeds per fruit,1,NA,0
+107,Leah_Blechschmidt_Malus_domestica_Canada_2018,Malus domestica,Average # of seeds per fruit,1,NA,0
+108,Louis_Sutter_Brassica_napus_Switzerland_2014,Brassica napus,kg per hectare,2,seeds per pod,1
+109,Luisa_G_Carvalheiro_Helianthus_annuus_South_Africa_2009,Helianthus annuus,fruit set: weight in g of 100 randomly selected seeds,2,NA,0
+110,Luisa_G_Carvalheiro_Mangifera_indica_South_Africa_2008,Mangifera indica,early fruit set (number of unripe fruits per inflorescence),1,NA,0
+111,Luisa_G_Carvalheiro_Mangifera_indica_South_Africa_2008,Mangifera indica,early fruit set (number of unripe fruits per inflorescence),1,NA,0
+112,Luisa_G_Carvalheiro_Mangifera_indica_South_Africa_2009,Mangifera indica,early fruit set (%),1,production per tree (stadertization was necessary because the number of trees per plot varied),2
+113,Luisa_G_Carvalheiro_Mangifera_indica_South_Africa_2009,Mangifera indica,early fruit set (%),1,production per tree (stadertization was necessary because the number of trees per plot varied),2
+114,Marcos_Minarro_Malus_domestica_Spain_2015,Malus domestica,early fruit set (%),1,NA,0
+115,Marcos_Minarro_Malus_domestica_Spain_2016,Malus domestica,early fruit set (%),1,NA,0
+116,Marcos_Minarro_Malus_domestica_Spain_2016,Malus domestica,early fruit set (%),1,NA,0
+117,Margaret_Mayfield_Actinidia_deliciosa_New_Zealand_NA,Actinidia deliciosa,mean fruit weight,2,NA,0
+118,Mark_Otieno_Cajanus_cajan_Kenya_2009,Cajanus cajan,Insect Pollination: Open pollination [control] - Self-pollination [Tulle bags],1,NA,0
+119,Michael_Garratt_Brassica_napus_UK_2012,Brassica napus,pod set (%),1,seeds per pod,1
+120,Michael_Garratt_Fragaria_ananassa_UK_2011,Fragaria x ananassa,primary fruit weight (grams),2,NA,0
+121,Michael_Garratt_Malus_domestica_UK_2011,Malus domestica,fruit set (%),1,seeds per apple,1
+122,Michael_Garratt_Vicia_faba_UK_2011,Vicia faba,pods per node,1,NA,0
+123,Natacha_Chacoff_Citrus_limon_Argentina_2015,Citrus limon,fruit set (%),1,NA,0
+124,Natacha_Chacoff_Citrus_paradisi_Argentina_2000,Citrus paradisi,fruit set (%),1,NA,0
+125,Natacha_Chacoff_Citrus_paradisi_Argentina_2001,Citrus paradisi,fruit set (%),1,NA,0
+126,Natacha_Chacoff_Citrus_paradisi_Argentina_2002,Citrus paradisi,fruit set (%),1,NA,0
+127,Neal_Williams_Citrullus_lanatus_USA_2013,Citrullus lanatus,kg per square meter,2,number of fruits,1
+128,Neal_Williams_Citrullus_lanatus_USA_2014,Citrullus lanatus,kg per square meter,2,number of fruits,1
+129,Neal_Williams_Citrullus_lanatus_USA_2015,Citrullus lanatus,kg per square meter,2,number of fruits,1
+130,Nicolas_J_Vereecken_Brassica_napus_Belgium_2019,Brassica napus,kg per hectare,2,NA,0
+131,Nicolas_J_Vereecken_Brassica_napus_France_2016,Brassica napus,kg per hectare,2,NA,0
+132,Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019,Fragaria x ananassa,kg per hectare,2,NA,0
+133,Nicolas_J_Vereecken_Malus_domestica_Belgium_2016,Malus domestica,kg per hectare,2,NA,0
+134,Nicolas_J_Vereecken_Malus_domestica_Belgium_2017,Malus domestica,kg per hectare,2,NA,0
+135,Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Malus domestica,kg per hectare,2,NA,0
+136,Nicolas_J_Vereecken_Malus_domestica_France_2016,Malus domestica,kg per hectare,2,NA,0
+137,Nicolas_J_Vereecken_Malus_domestica_France_2019,Malus domestica,kg per hectare,2,NA,0
+138,Nicolas_J_Vereecken_Pyrus_communis_Belgium_2019,Pyrus communis,kg per hectare,2,NA,0
+139,Nicolas_J_Vereecken_Rubus_idaeus_Belgium_2017,Rubus idaeus,kg per hectare,2,NA,0
+140,Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017,Vaccinium corymbosum,kg per hectare,2,NA,0
+141,Nikki_Rothwell_Prunus_cerasus_USA_2013,Prunus cerasus,number of fruits per_flower,1,number of fruits,1
+142,Nikki_Rothwell_Prunus_cerasus_USA_2014,Prunus cerasus,number of fruits per_flower,1,number of fruits,1
+143,Nikki_Rothwell_Prunus_cerasus_USA_2015,Prunus cerasus,number of fruits per_flower,1,number of fruits,1
+144,Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,Vaccinium corymbosum,fruit set (%),1,NA,0
+145,Rachel_Mallinger_Malus_domestica_USA_2012,Malus domestica,fruit set (%): 100 number of fruits/number of open flowers,1,NA,0
+146,Rachel_Mallinger_Malus_domestica_USA_2013,Malus domestica,fruit set (%): 100 number of fruits/number of open flowers,1,NA,0
+147,Rebecca_Steward_Fragaria_ananassa_Sweden_2014,Fragaria x ananassa,number/treatment/site,1,pollination index of strawberry,1
+148,Riccardo_Bommarco_Brassica_napus_Sweden_2005,Brassica napus,mean weight per plant,2,NA,0
+149,Riccardo_Bommarco_Brassica_napus_Sweden_2009,Brassica napus,fruit set (%),1,NA,0
+150,Robert_Gillespie_Prunus_avium_USA_2013,Prunus avium,fruit weight per branch,2,number of fruits per flower,1
+151,Robert_Gillespie_Prunus_avium_USA_2014,Prunus avium,fruit weight per branch,2,number of fruits per flower,1
+152,Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,Helianthus annuus,Seed weight of 10 sunflower heads (kg),2,NA,0
+153,Sandra_Lindstrom_Brassica_napus_Sweden_2011,Brassica napus,tonne per hectare,2,NA,0
+154,Sandra_Lindstrom_Brassica_napus_Sweden_2012,Brassica napus,tonne per hectare,2,NA,0
+155,Sarah_Cusser_Gossypium_hirsutum_USA_2014,Gossypium hirsutum,fruit set: difference in grams between seedcotton (fiber and seeds) weight  of 10 flowers bagged to exclude pollinators and 10 flowers receiving open pollination // 10 flowers receiving open pollination and 10 flowers artifically manipulated to receive an abundance of outcross pollen,2,seed set: difference in number of seeds of 10 flowers bagged to exclude pollinators and 10 flowers receiving open pollination // 10  flowers receiving open pollination and 10 flowers artifically manipulated to receive an abundance of outcross pollen,1
+156,Shelby_Fleischer_Cucurbita_pepo_USA_2013,Cucurbita pepo,kg per square meter,2,number of fruits,1
+157,Shelby_Fleischer_Cucurbita_pepo_USA_2014,Cucurbita pepo,kg per square meter,2,number of fruits,1
+158,Shelby_Fleischer_Cucurbita_pepo_USA_2015,Cucurbita pepo,kg per square meter,2,number of fruits,1
+159,Silvia_Castro_Actinidia_deliciosa_Portugal_2018,Actinidia deliciosa,tonne per hectare,2,NA,0
+160,Silvia_Castro_Actinidia_deliciosa_Portugal_2019,Actinidia deliciosa,tonne per hectare,2,NA,0
+161,Silvia_Castro_Actinidia_deliciosa_Portugal_2019,Actinidia chinensis,tonne per hectare,2,NA,0
+162,Silvia_Castro_Helianthus_annuus_Spain_2017,Helianthus annuus,kg per hectare,2,NA,0
+163,Silvia_Castro_Helianthus_annuus_Spain_2018,Helianthus annuus,kg per hectare,2,NA,0
+164,Simon_Potts_Vicia_faba_UK_2005,Vicia faba,mean weight per plant,2,NA,0
+165,Smitha_Krishnan_Coffea_canephora_India_2007,Coffea canephora,final seed set (%): ovules that developed into seeds at harvest,1,final fruitset (%): flowers that developed into mature fruits at harvest,1
+166,Smitha_Krishnan_Coffea_canephora_India_2007,Coffea canephora,final seed set (%): ovules that developed into seeds at harvest,1,final fruitset (%): flowers that developed into mature fruits at harvest,1
+167,Smitha_Krishnan_Coffea_canephora_India_2008,Coffea canephora,final seed set (%): ovules that developed into seeds at harvest,1,final fruitset (%): flowers that developed into mature fruits at harvest,1
+168,Smitha_Krishnan_Coffea_canephora_India_2008,Coffea canephora,final seed set (%): ovules that developed into seeds at harvest,1,final fruitset (%): flowers that developed into mature fruits at harvest,1
+169,Smitha_Krishnan_Coffea_canephora_India_2009,Coffea canephora,final seed set (%): ovules that developed into seeds at harvest,1,final fruitset (%): flowers that developed into mature fruits at harvest,1
+170,Smitha_Krishnan_Coffea_canephora_India_2014,Coffea canephora,kg per ha (dried and hulled beans),2,kg per hectare (dried berries),2
+171,Sujaya_Rao_Vaccinium_corymbosum_USA_2014,Vaccinium corymbosum,berry weight,2,fruit set,1
+172,Sujaya_Rao_Vaccinium_corymbosum_USA_2015,Vaccinium corymbosum,berry weight,2,fruit set,1
+173,Taylor_Ricketts_Coffea_arabica_Costa_Rica_2001,Coffea arabica,fruit set (%),1,wet seed mass per fruit,2
+174,Theresa_PittsSinger_Prunus_dulcis_USA_2013,Prunus dulcis,number of fruits per_flower,1,number of fruits,1
+175,Theresa_PittsSinger_Prunus_dulcis_USA_2014,Prunus dulcis,number of fruits per_flower,1,number of fruits,1
+176,Thijs_Fijen_Allium_porrum_France_2016,Allium porrum,z-score Seeds produced,1,z-score Seed set (%),1
+177,Thijs_Fijen_Allium_porrum_Italy_2016,Allium porrum,z-score Seeds produced,1,z-score Seed set (%),1
+178,Timothy_Weekers_Malus_domestica_France_2019,Malus domestica,kg per ha,2,NA,0
+179,Timothy_Weekers_Malus_domestica_Morocco_2019,Malus domestica,kg per ha,2,NA,0
+180,Timothy_Weekers_Malus_domestica_Netherlands_2019,Malus domestica,kg per ha,2,NA,0
+181,Timothy_Weekers_Malus_domestica_Spain_2019,Malus domestica,kg per ha,2,NA,0
+182,Timothy_Weekers_Malus_domestica_UK_2019,Malus domestica,kg per ha,2,NA,0
+183,Violeta_Hevia_Helianthus_annuus_Spain_2017,Helianthus annuus,seeds per plant,1,seed weight (g/100 seeds),2
+184,Virginie_Boreux_Coffea_canephora_India_2008,Coffea canephora,final fruit set (%),1,initial fruitset (%),1
+185,Virginie_Boreux_Malus_domestica_Germany_2015,Malus domestica,fruit set (%): 100 number of fruits/number of open flowers,1,NA,0
+186,Willis_Chan_Raine_Cucurbita_pepo_Canada_2017,Cucurbita pepo,# fruit over 500g,2,NA,0
+187,Willis_Chan_Raine_Cucurbita_pepo_Canada_2018,Cucurbita pepo,# fruit over 500g,2,NA,0
+188,Yi_Zou_Brassica_napus_China_2015,Brassica napus,fruit set (%),1,seed set,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

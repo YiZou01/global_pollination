@@ -1,47 +1,42 @@
 ## Summary
-
 This is the data and analysis code for "Global relationships between non-crop habitat, crop pollinator diversity and crop pollination" by Zou et al.
-
 Contact: Yi Zou (yi.zou.1@hotmail.com)
 
 ## Details
-
-1.  'Data.csv' is the combined data between selected 'CropPol_field_level_data.csv' and landuse data. 'CropPol_field_level_data.csv' is the data from 'CropPol' dataset, which available at <https://doi.org/10.5281/zenodo.7907134>. Columns from 'CropPol_field_level_data.csv' are:\
-    study_id\
-    site_id\
-    latitude\
-    longitude crop\
-    country\
-    yield yield_t\
-    yield2\
-    yield2_t\
+1.  'Data.csv' is the combined data between selected 'CropPol_field_level_data.csv' and landuse data. 'CropPol_field_level_data.csv' is the data from 'CropPol' dataset, which available at <https://doi.org/10.5281/zenodo.7907134>. Columns from 'CropPol_field_level_data.csv' are:
+    study_id
+    site_id
+    latitude
+    longitude crop
+    country
+    yield yield_t
+    yield2
+    yield2_t
     Details of these columns can be found in Bartomeus, I. & Allen-Perkins, A. (2023) ibartomeus/OBservData: Blueberry (v2.1.0). Zenodo. [https://doi.org/10.5281/zenodo.7907134.\\](https://doi.org/10.5281/zenodo.7907134.\){.uri}
 
-    Landuse columns refers to the area of within 1km radius:\
+    Landuse columns refers to the area of within 1km radius:
     Built_up: Area of built_up land
-
-    Shrubland: Area of shrubland\
-    Grassland: Area of grassland\
-    Bare: Area of bare land\
+    Shrubland: Area of shrubland
+    Grassland: Area of grassland
+    Bare: Area of bare land
     Trees: Area of trees land
 
-    Water: Area of water surface\
-    Ice: Area of ice cover land\
-    Mangroves: Area of mangroves land\
-    Herbaceous: Area of herbaceous land\
-    Cropland: Area of cropland\
-    Total: Total area\
+    Water: Area of water surface
+    Ice: Area of ice cover land
+    Mangroves: Area of mangroves land
+    Herbaceous: Area of herbaceous land
+    Cropland: Area of cropland
+    Total: Total area
     Climate: Köppen-Geiger climate zones, including tropical (A), arid (B), temperate (C), and cold (D)
-
     study_climate: The combination of study ID and climate zones
 
-2.  'Yield_matrix.csv' is the yield measuring metrics, including the following columns\
-    No: Study number\
-    study_id: Study ID, identical with the column in 'Data.csv'\
-    crop: Crop species\
-    yield_units: Measurement unit for the first yield in the dataset\
-    Type1: The type of measuring matrix for the first yield measurment (0=NA, 1 = proportion-based, 2=weight-based, 3=other)\
-    yield2_units: Measurement unit for the second yield in the dataset\
+2.  'Yield_matrix.csv' is the yield measuring metrics, including the following columns
+    No: Study number
+    study_id: Study ID, identical with the column in 'Data.csv'
+    crop: Crop species
+    yield_units: Measurement unit for the first yield in the dataset
+    Type1: The type of measuring matrix for the first yield measurment (0=NA, 1 = proportion-based, 2=weight-based, 3=other)
+    yield2_units: Measurement unit for the second yield in the dataset
     Type2: The type of measuring matrix for the second yield measurment (0=NA, 1 = proportion-based, 2=weight-based, 3=other)
 
 3.  'CropPol_sampling_data.csv' is the abundance data from 'CropPol' dataset, which available at <https://doi.org/10.5281/zenodo.7907134>. More details can be found in Bartomeus, I. & Allen-Perkins, A. (2023) ibartomeus/OBservData: Blueberry (v2.1.0). Zenodo. <https://doi.org/10.5281/zenodo.7907134>.

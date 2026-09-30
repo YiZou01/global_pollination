@@ -41,4 +41,6 @@ Contact: Yi Zou (yi.zou.1@hotmail.com)
 
 3.  'CropPol_sampling_data.csv' is the abundance data from 'CropPol' dataset, which available at <https://doi.org/10.5281/zenodo.7907134>. More details can be found in Bartomeus, I. & Allen-Perkins, A. (2023) ibartomeus/OBservData: Blueberry (v2.1.0). Zenodo. <https://doi.org/10.5281/zenodo.7907134>.
 
-4.  'Analysis.R' is the data analysis R code
+4. 'Analysis.R' is the data analysis R code
+
+5. 'GEE_code.txt' is the Google Earth Engine code
